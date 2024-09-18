@@ -23,8 +23,6 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Gerard+Solé!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
-
 <br/>
 
 <div align="center"> 
@@ -41,18 +39,4 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,github,figma,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,firebase,mongodb,c,java,mysql" /><br>
-</div>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/GerardSole/GerardSole/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats-GerardSole.vercel.app/api?username=GerardSole&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
