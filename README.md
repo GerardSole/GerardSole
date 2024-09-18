@@ -38,5 +38,6 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,vscode,github,figma,git" />
+    <br>
     <img src="https://skillicons.dev/icons?i=nodejs,python,firebase,mongodb,c,java,mysql" /><br>
 </div>
