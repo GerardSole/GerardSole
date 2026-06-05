@@ -45,8 +45,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GerardSole&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardSole&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GerardSole&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardSole&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </div>
 
 <br/>
@@ -57,11 +58,9 @@
 
 <div align="center">
   <a href="https://github.com/GerardSole/calam-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GerardSole&repo=calam-api&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GerardSole&repo=calam-api&theme=tokyonight&hide_border=true&cache_seconds=1800" />
   </a>
 </div>
-
-<br/>
 
 ---
 
