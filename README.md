@@ -25,9 +25,8 @@
 ```txt
 🔭  Currently building:  calam-api — a public REST API with Node.js
 🌱  Learning:            Docker · TypeScript · Testing (Jest)
-💡  Interested in:       Clean architecture · Open source · Backend systems
-📍  Based in:            Barcelona, Spain
-⚡  Fun fact:            My GitHub avatar is a frog — I like it that way
+📍   Based in:            Barcelona, Spain
+💡   Interested in:       Clean architecture · Open source · Backend systems
 ```
 
 ---
