@@ -23,7 +23,7 @@
 ## 🙋‍♂️ About Me
 
 ```txt
-🔭  Currently building:  calam-api — a public REST API with Node.js
+🔭  Currently building:  API projects — focusing on backend & REST design
 🌱  Learning:            Docker · TypeScript · Testing (Jest)
 📍   Based in:            Barcelona, Spain
 💡   Interested in:       Clean architecture · Open source · Backend systems
