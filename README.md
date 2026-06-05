@@ -50,20 +50,7 @@
 
 ---
 
-## 📌 Pinned Project
 
-<div align="center">
-  <a href="https://github.com/GerardSole/calam-api">
-    <img src="https://img.shields.io/badge/📦%20calam--api-View%20Repo-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=58a6ff" />
-  </a>
-</div>
-
-<br/>
-
-| | |
-|---|---|
-| **calam-api** | ![Stars](https://img.shields.io/github/stars/GerardSole/calam-api?style=flat&color=yellow) ![Language](https://img.shields.io/github/languages/top/GerardSole/calam-api?style=flat&color=green) |
-| Public REST API built with Node.js | ![Last commit](https://img.shields.io/github/last-commit/GerardSole/calam-api?style=flat&color=blue) |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
