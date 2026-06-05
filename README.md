@@ -45,12 +45,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GerardSole&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerardSole&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=GerardSole&theme=tokyonight&hide_border=true" />
 </div>
-
-<br/>
 
 ---
 
