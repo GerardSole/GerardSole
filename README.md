@@ -34,14 +34,15 @@
 <h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,nodejs,python" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,python,java" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,firebase,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,mongodb,firebase,mysql" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,vscode,figma" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
 </div>
 
 <br/>
