@@ -50,6 +50,38 @@
 
 ---
 
+---
+
+## 🚀 Featured Project
+
+<div align="center">
+
+### [Playnet](https://github.com/GerardSole/Playnet)
+*Game backend platform with auth, matchmaking, presence, leaderboards and real-time WebSockets*
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,redis" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+
+<br/><br/>
+
+| Feature | Description |
+|---|---|
+| 🔐 Auth | JWT-based authentication system |
+| 🎮 Matchmaking | Player queue and room assignment |
+| 📡 Real-time | WebSocket presence and live events |
+| 🏆 Leaderboards | Ranking system with persistent scores |
+
+<br/>
+
+<a href="https://github.com/GerardSole/Playnet">
+  <img src="https://img.shields.io/badge/View%20on%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
