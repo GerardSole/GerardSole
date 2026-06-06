@@ -38,7 +38,7 @@
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,mongodb,firebase,mysql" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,vscode,supabase" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
