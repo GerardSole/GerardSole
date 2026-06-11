@@ -20,17 +20,6 @@
 
 ---
 
-## 🙋‍♂️ About Me
-
-```txt
-🔭  Currently building:  API projects — focusing on backend & REST design
-🌱  Learning:            Docker · TypeScript · Testing (Jest)
-📍   Based in:            Barcelona, Spain
-💡   Interested in:       Clean architecture · Open source · Backend systems
-```
-
----
-
 <h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
 <br/>
 <div align="center">
